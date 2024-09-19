@@ -2,7 +2,9 @@
 
 This project predicts **Energy Consumption (MU)** and **Peak Load (MW)** for Delhi using weather data and public holiday information. Predictions are generated using machine learning models, specifically **Random Forest Regressors**, trained on historical data from 2021 to 2024.
 
-## Overview
+## Overview!
+[output (17)](https://github.com/user-attachments/assets/e8c187ab-6517-4cd1-b630-bc216b6610e6)
+
 
 The project forecasts daily **Energy Consumption** and **Peak Load** values based on the following features:
 - **Weather Parameters**: Temperature (min, max, avg), wind speed, wind direction, and precipitation.
